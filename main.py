@@ -1,4 +1,3 @@
-from colorfull import init; init()
 import websocket
 import threading
 import httpx

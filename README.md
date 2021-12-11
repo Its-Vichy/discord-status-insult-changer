@@ -9,7 +9,7 @@
 ----
 
 ```sh
-- pip install colorfull httpx
+- pip install httpx
 - put your tokens in "tokens.txt"
 - python main.py
 - get fun !
